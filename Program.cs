@@ -1,12 +1,7 @@
 ﻿using DotNetCoreAssessment.Models;
 using DotNetCoreAssessment.Services;
-using System.Collections;
-using System.Drawing;
-using System.Net.NetworkInformation;
-using System.Reflection;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace IceCreamSalesAssessment
+namespace DotNetCoreAssessment
 {
     internal class Program
     {
